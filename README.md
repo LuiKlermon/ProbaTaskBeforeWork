@@ -1,0 +1,2 @@
+# ProbaTaskBeforeWork
+My Trening task
